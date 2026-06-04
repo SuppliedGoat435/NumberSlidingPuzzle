@@ -42,9 +42,9 @@ entry/src/main/ets/
 1. 环境准备：安装 **DevEco Studio**，配置HarmonyOS SDK 6.1.0(API23)
 2. 克隆/导入本项目到DevEco
 ```bash
-git clone https://github.com/SuppliedGoat435/NumberSlidingPuzzle.git
+git clone https://github.com/你的用户名/NumberPuzzle-HarmonyOS.git
 ```
-3. 连接鸿蒙真机/模拟器（API≥23）
+3. 连接鸿蒙真机/模拟器/预览器（API≥23）
 4. 点击运行按钮，编译安装应用
 
 ## 🎮 游戏操作说明
@@ -67,4 +67,8 @@ git clone https://github.com/SuppliedGoat435/NumberSlidingPuzzle.git
 
 ## 📄 开源协议
 本项目采用 **MIT License**，可自由学习、二次修改、商用使用。
-```
+
+## 游戏截图
+![首页界面](screenshot/home.png)
+![对局界面](screenshot/game.png)
+![通关结算](screenshot/result.png)
